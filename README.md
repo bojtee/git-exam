@@ -1,3 +1,1 @@
-Git Exam Repository
-
-Commit és push szükséges.
+Git Exam Repository Updated
